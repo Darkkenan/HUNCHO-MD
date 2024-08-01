@@ -3,7 +3,7 @@
   "description":"bot whatsapp développé by Keith Keizzah",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/835c3a335c8e2585898fc.jpg",
-  "repository":"https://github.com/Keithkeizzah/HUNCHO-MD",
+  "repository":"https://github.com/Darkkenan/HUNCHO-MD.git",
   "succes_url":"/",
   "stack":"container",
   "env":{
